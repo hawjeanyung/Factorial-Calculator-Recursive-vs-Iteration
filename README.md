@@ -46,7 +46,8 @@ This application helps users:
 
 ## 🖼️ Screenshots
 
-*(Add screenshots of the application interface here if available)*
+<img width="399" height="824" alt="image" src="https://github.com/user-attachments/assets/cf3b6174-da2a-452b-a303-cb9573c6edb2" />
+
 
 ## 🚀 Future Enhancements
 
