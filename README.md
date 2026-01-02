@@ -57,7 +57,7 @@ This application helps users:
 
 ## 👨‍💻 Author
 
-Developed by a **Computer Science student** as part of an academic and practical exploration of algorithm design and performance analysis.
+Developed by a Haw Jean Yung, Bachelors of Computer Science from University Teknologi Petronas as part of my Data Structure & Algorithm course and to explore algorithm design and performance analysis.
 
 ## 📄 License
 
